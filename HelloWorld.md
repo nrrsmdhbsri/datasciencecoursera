@@ -5,7 +5,7 @@ date: "7/19/2020"
 output: pdf_document
 ---
 ```{r}
-## "This is a markdown file"
+## This is a markdown file
 ```
 
 ```{r setup, include=FALSE}
